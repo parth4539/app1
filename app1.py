@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import pandas_datareader as data
+import pandas_Datareader as data
 import matplotlib.pyplot as plt
 from keras.models import load_model
 import streamlit as st
